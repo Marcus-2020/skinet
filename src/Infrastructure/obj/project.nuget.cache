@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUF2mgMT6st7SAIE0TubhcuCF+AupM5Jz2rLcu11P8h7f2i/bgfL7ae2B4uzWCdsFA4o2aBj3OKVNzqm0YBI4g==",
+  "dgSpecHash": "omjoXEYmlzYtYzJg/fUZuNbSbWJ0tCjpyZsBzeTvBjbFWx+b7q+qBGhebdvZ+Vi9X/1cRuEMMM2GWByuryaJpQ==",
   "success": true,
-  "projectFilePath": "c:\\Repositorios\\cursos\\udemy\\angular-netcore\\skinet\\src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Repositorios\\cursos\\udemy\\angular-netcore\\skinet\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",

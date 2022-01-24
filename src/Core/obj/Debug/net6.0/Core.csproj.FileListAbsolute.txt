@@ -1,0 +1,12 @@
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\bin\Debug\net6.0\Core.deps.json
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\bin\Debug\net6.0\Core.dll
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\bin\Debug\net6.0\ref\Core.dll
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\bin\Debug\net6.0\Core.pdb
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\obj\Debug\net6.0\Core.dll
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\Core\obj\Debug\net6.0\Core.pdb
