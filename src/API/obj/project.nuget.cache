@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bqHdwkS6fbhEARMu4UXC2PyvQYIIGltW9++HXU1l2BMjaZ4KvQkvAuCnE5FIJj3I+QNDzOuO8tFakoXdQ55Hbw==",
+  "dgSpecHash": "xlDVhW3WzDzjJCL1BBJFw2otygbMyZdmT7O86Cm0Svp7cTugovNXLt/uQSgucmrpHOBfHgeUYb8R+s6dx5zSHg==",
   "success": true,
-  "projectFilePath": "C:\\Repositorios\\cursos\\udemy\\angular-netcore\\skinet\\src\\api\\API.csproj",
+  "projectFilePath": "C:\\Repositorios\\cursos\\udemy\\angular-netcore\\skinet\\src\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
