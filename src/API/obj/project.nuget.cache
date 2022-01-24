@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "5uBqIaaClwPBZAl9TQvR/87e4sx0AE1haq6c7PQTOlLEeVxtj3o7wEdtQnrZHa/ZAZpRcgH50npCp6pwwAB7LQ==",
+  "dgSpecHash": "ARgRRHMIVMosihqjNuBZH4XP0VoLZOweT3O5NkaxHZfb47FLjwbGZS+Z39mtK2oc5J1vElHar+AG44Q4XfTMfQ==",
   "success": true,
   "projectFilePath": "C:\\Repositorios\\cursos\\udemy\\angular-netcore\\skinet\\src\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ideapad-L340\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.1\\microsoft.entityframeworkcore.analyzers.6.0.1.nupkg.sha512",
+    "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.1\\microsoft.entityframeworkcore.design.6.0.1.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\microsoft.entityframeworkcore.relational.6.0.1.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.1\\microsoft.entityframeworkcore.sqlite.6.0.1.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\6.0.1\\microsoft.entityframeworkcore.sqlite.core.6.0.1.nupkg.sha512",
