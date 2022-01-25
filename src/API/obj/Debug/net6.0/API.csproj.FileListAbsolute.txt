@@ -57,3 +57,4 @@ C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\API\bin\Debug\net6.0\Inf
 C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\API\bin\Debug\net6.0\Core.pdb
 C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\api\bin\Debug\net6.0\AutoMapper.dll
 C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Repositorios\cursos\udemy\angular-netcore\skinet\src\api\bin\Debug\net6.0\API.staticwebassets.runtime.json
