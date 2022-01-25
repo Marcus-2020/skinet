@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Core.Interfaces;
 using Core.Specifications;
 using API.Dtos;
+using AutoMapper;
 
 namespace API.Controllers;
 
@@ -13,14 +14,17 @@ public class ProductsController : ControllerBase
     private readonly IGenericRepository<Product> _productsRepo;
     private readonly IGenericRepository<ProductBrand> _productBrandRepo;
     private readonly IGenericRepository<ProductType> _productTypeRepo;
+    private readonly IMapper _mapper;
 
     public ProductsController(IGenericRepository<Product> productsRepo, 
     IGenericRepository<ProductBrand> productBrandsRepo, 
-    IGenericRepository<ProductType> productTypesRepo)
+    IGenericRepository<ProductType> productTypesRepo,
+    IMapper mapper)
     {
         _productsRepo = productsRepo;
         _productBrandRepo = productBrandsRepo;
         _productTypeRepo = productTypesRepo;
+        _mapper = mapper;
     }
 
     [HttpGet]
@@ -65,15 +69,6 @@ public class ProductsController : ControllerBase
         
         var product = await _productsRepo.GetEntityWithSpec(spec);
         
-        return Ok(new ProductToReturnDto 
-        {
-            Id = product.Id,
-            Name = product.Name,
-            Description = product.Description,
-            PictureUrl = product.PictureUrl,
-            Price = product.Price,
-            ProductBrand = product.ProductBrand.Name,
-            ProductType = product.ProductType.Name,
-        });
+        return Ok(_mapper.Map<Product, ProductToReturnDto>(product));
     }
 }

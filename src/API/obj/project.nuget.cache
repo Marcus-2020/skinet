@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bqHdwkS6fbhEARMu4UXC2PyvQYIIGltW9++HXU1l2BMjaZ4KvQkvAuCnE5FIJj3I+QNDzOuO8tFakoXdQ55Hbw==",
+  "dgSpecHash": "ZDUe5Bi41zm1OigwGgLj/Jc2sBvEsopLoC8RXb/arky1nDBjbf32aF/d2c+3EiT/bIf2xvS5e8DuHfk3kLpclQ==",
   "success": true,
   "projectFilePath": "C:\\Repositorios\\cursos\\udemy\\angular-netcore\\skinet\\src\\api\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ideapad-L340\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\ideapad-L340\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\ideapad-L340\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
